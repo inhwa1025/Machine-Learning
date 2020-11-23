@@ -1,10 +1,24 @@
 # MachineLearning
 
 2020 KHU Machine Learning
-PyTorch
+with PyTorch
 
-#1. Linear Model
+1. Linear Model
 
-#2. gradient Desent
+2. gradient Desent
 
-#3. Back propagation
+3. Back propagation
+
+4. Linear regression
+
+5. Logistic Regression
+
+6. Wide & Deep
+
+7. DataLoader
+
+8. Softmax Classifier
+
+9. Basic CNN
+
+10. Advanced CNN
