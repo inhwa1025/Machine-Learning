@@ -3,7 +3,7 @@
 2020 KHU Machine Learning
 with PyTorch
 
-based https://github.com/hunkim/PyTorchZeroToAll
+based on https://github.com/hunkim/PyTorchZeroToAll
 
 1. Linear Model
 
